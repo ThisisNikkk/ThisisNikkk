@@ -1,6 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Nikhil Siwan</h1>
-<h3 align="center">| Software Developer |</h3>
 <h3 align="center">| Front-End Developer |</h3>
 <h3 align="center">| Full Stack Developer |</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
