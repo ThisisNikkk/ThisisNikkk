@@ -1,6 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
+[![MasterHead](hhttps://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
 <h1 align="center">Hi 👋, I'm Nikhil Siwan</h1>
-<h3 align="center">| Front-End Developer |</h3>
 <h3 align="center">| Full Stack Developer |</h3>
 <img align="right" alt="Coding" width="400" src="https://nikhilsiwan.netlify.app/Img/Home.png">
 
@@ -27,5 +26,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThisisNikkk&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
