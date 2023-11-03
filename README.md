@@ -1,4 +1,4 @@
-[![MasterHead](hhttps://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
+[![MasterHead](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
 <h1 align="center">Hi 👋, I'm Nikhil Siwan</h1>
 <h3 align="center">| Full Stack Developer |</h3>
 <img align="right" alt="Coding" width="400" src="https://nikhilsiwan.netlify.app/Img/Home.png">
