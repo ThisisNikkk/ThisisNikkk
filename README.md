@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFJ65dQcAEhSA/profile-displaybackgroundimage-shrink_350_1400/0/1698515889003?e=1704326400&v=beta&t=lmpyidHL-WCc28myLx2kom_Y6EGIjlarvx8FVsQBNeU)
 <h1 align="center">Hi 👋, I'm Nikhil Siwan</h1>
 <h3 align="center">| Full Stack Developer |</h3>
 <img align="right" alt="Coding" width="400" src="https://nikhilsiwan.netlify.app/Img/Home.png">
