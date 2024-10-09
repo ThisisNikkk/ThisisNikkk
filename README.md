@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Siwan</h1>
 <h3 align="center">| Full Stack Developer |</h3>
-<img align="right" alt="Coding" width="400" src="https://nikhilsiwan.netlify.app/Img/Home.png">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on StudentWallet <br><br>🌱 I’m currently learning Node.js <br><br>👨‍💻 Open source Contributor <br><br>💬 Ask me about C++, Python, HTML/CSS, Bootstrap, JavaScript, React <br><br>📫 How to reach me developer.nikk@gmail.com
+🔭 I’m currently working on StudentWallet <br><br>🌱 I’m currently learning Next.js <br><br>👨‍💻 Open source Contributor <br><br>💬 Ask me about C++, JavaScript, React, Node.js, Express.js <br><br>📫 How to reach me developer.nikk@gmail.com
 
 
 ## 🌐 Socials:
