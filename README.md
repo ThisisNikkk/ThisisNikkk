@@ -4,7 +4,7 @@
 <h3 align="center">| Full Stack Developer |</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on CareConnect <br><br>🌱 I’m currently learning Next.js <br><br>👨‍💻 Open source Contributor <br><br>💬 Ask me about C++, JavaScript, React, Node.js, Express.js <br><br>📫 How to reach me developer.nikk@gmail.com
+🔭 I’m currently working on <a href = "https://metagrowthlabs.vercel.app/" >MetaGrowth Labs</a> <br><br>🌱 I’m currently learning Next.js <br><br>👨‍💻 Open source Contributor <br><br>💬 Ask me about C++, JavaScript, React, Node.js, Express.js <br><br>📫 How to reach me developer.nikk@gmail.com
 
 
 ## 🌐 Socials:
