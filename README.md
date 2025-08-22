@@ -1,6 +1,8 @@
 ![Untitled design (1)](https://github.com/ThisisNikkk/ThisisNikkk/assets/113753784/77e6a39d-272e-4ddf-9b8c-0085d8b9cd2b)
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Nikhil%20Siwan%20👨‍💻&text2=Software%20Developer&width=800&height=200&font=Montserrat" alt="Nikhil Siwan Banner" />
+</p>
 
 ###
 
@@ -74,9 +76,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/_thisisnikkk_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+  </a>
+  <a href="mailto:developer.nikk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhilsiwan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
