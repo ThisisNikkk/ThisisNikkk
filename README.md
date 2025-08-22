@@ -1,10 +1,10 @@
 ![Untitled design (1)](https://github.com/ThisisNikkk/ThisisNikkk/assets/113753784/77e6a39d-272e-4ddf-9b8c-0085d8b9cd2b)
 
 <h1 align="center">Hi 👋, I'm Nikhil Siwan</h1>
-<h3 align="center">| Software Developer |</h3>
+<h2 align="center">| Software Developer |</h2>
 
 # 💫 About Me:
-🔭 I’m currently working on <a href = "https://metagrowthlabs.vercel.app/" >MetaGrowth Labs</a> <br><br>🌱 I’m currently learning Next.js <br><br>👨‍💻 Open source Contributor <br><br>💬 Ask me about C++, JavaScript, React, Node.js, Express.js <br><br>📫 How to reach me developer.nikk@gmail.com
+🔭 I’m currently working on <a href = "https://metagrowthlabs.vercel.app/" >MetaGrowth Labs</a> <br><br>🌱 I’m currently at SachTech Solutions Pvt. Ltd. <br><br>💬 Ask me about C++, JavaScript, React, Node.js, Express.js <br><br>📫 How to reach me developer.nikk@gmail.com
 
 
 ## 🌐 Socials:
