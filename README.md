@@ -58,9 +58,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnikkk&layout=donut-vertical&theme=transparent&langs_count=6&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnikkk&layout=donut-vertical&theme=onedark&langs_count=6&hide_border=true" 
   alt="Top languages" 
   width="600" 
   height="400" 
