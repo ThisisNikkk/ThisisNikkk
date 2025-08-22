@@ -1,8 +1,6 @@
 ![Untitled design (1)](https://github.com/ThisisNikkk/ThisisNikkk/assets/113753784/77e6a39d-272e-4ddf-9b8c-0085d8b9cd2b)
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Nikhil%20Siwan%20👨‍💻&text2=Software%20Developer&width=800&height=200&font=Montserrat" alt="Nikhil Siwan Banner" />
-</p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
