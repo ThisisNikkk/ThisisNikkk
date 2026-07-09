@@ -1,10 +1,10 @@
-![Untitled design (1)](https://github.com/ThisisNikkk/ThisisNikkk/assets/113753784/77e6a39d-272e-4ddf-9b8c-0085d8b9cd2b)
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is <b>Nikhil Siwan</b>. and I'm a <b>Software Developer</b>, from Hisar, Haryana, India</p>
+<p align="left">My name is <b>Nikhil Siwan</b>. and I'm a <b>Software Developer</b>.
 
 ###
 
